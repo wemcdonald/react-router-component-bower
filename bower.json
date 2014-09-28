@@ -1,7 +1,7 @@
 {
   "name": "react-router-component",
   "main": "react-router-component.js",
-  "version": "0.18.2",
+  "version": "0.21.2",
   "authors": [
     "Andrey Popp <8mayday@gmail.com>"
   ],
@@ -27,7 +27,7 @@
     "tests"
   ],
   "dependencies": {
-    "react": "~0.10.0",
-    "react-async": "~0.8.0"
+    "react": "~0.11.0",
+    "react-async": "~1.0.0"
   }
 }
